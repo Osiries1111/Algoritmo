@@ -3,4 +3,4 @@ if  gente=="Minion!":
     while gente=="Minion!":
         print("BANG!")
 else:
-    print()
+    print("holaaa")

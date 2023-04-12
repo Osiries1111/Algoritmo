@@ -13,3 +13,4 @@ while dis<gol:
     print(imprime,'=',dis)
     exponente+=1
 print("Necesite"+exponente+"golpes para alcanzar los"+gol+"metros")
+
