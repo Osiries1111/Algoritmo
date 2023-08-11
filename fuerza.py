@@ -15,3 +15,4 @@ while dis<gol:
 print("Necesite"+exponente+"golpes para alcanzar los"+gol+"metros")
 
 print(1111)
+x=11
